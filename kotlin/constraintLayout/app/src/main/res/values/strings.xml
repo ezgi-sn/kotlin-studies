@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">constraintLayout</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+</resources>
